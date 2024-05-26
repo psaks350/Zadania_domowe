@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr\\Desktop\\STUDIA\\C#\\Zadania-Operatory, Instrukcje steruj\u0105ce i p\u0119tle, Kolekcje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207AA2A4-7D27-4A2F-BFAE-5A806D0BB2FF}|Zadania.csproj|c:\\users\\piotr\\desktop\\studia\\c#\\zadania-operatory, instrukcje steruj\u0105ce i p\u0119tle, kolekcje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207AA2A4-7D27-4A2F-BFAE-5A806D0BB2FF}|Zadania.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\STUDIA\\C#\\Zadania-Operatory, Instrukcje steruj\u0105ce i p\u0119tle, Kolekcje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\STUDIA\\C#\\Zadania-Operatory, Instrukcje steruj\u0105ce i p\u0119tle, Kolekcje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAANMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:47:40.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
